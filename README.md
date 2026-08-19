@@ -18,16 +18,53 @@
 ## 📌 Table of Contents
 * [Overview](#-overview)
 * [Repository Structure](#-repository-structure)
-* [Weekly Deliverables](#-weekly-deliverables)
 * [Tech Stack & Tools](#-tech-stack--tools)
 * [Getting Started](#-getting-started)
-* [Author](#-author)
+
 
 ---
 
 ## 📖 Overview
 
 This repository tracks my end-to-end tasks as a **Senior Data Analytics Engineer Intern** at **YuvaIntern**. The primary goal is to transform raw, unstructured datasets into actionable business intelligence through robust data engineering workflows, analytical modeling, and visual reporting.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+Core Language: Python 3.x
+Data Manipulation: Pandas, NumPy
+Documentation & Reporting: Markdown, Microsoft Word
+Version Control: Git, GitHub
+
+---
+
+🚀 Getting Started
+
+Prerequisites
+Ensure Python 3.8+ is installed on your machine:
+
+Bash
+python --version
+Setup Instructions
+Clone the repository:
+
+Bash
+git clone [https://github.com/surajgirii/Senior-Data-Analytics-Engineer-Internship.git](https://github.com/surajgirii/Senior-Data-Analytics-Engineer-Internship.git)
+cd Senior-Data-Analytics-Engineer-Internship
+Set up a virtual environment:
+
+Bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install required packages:
+
+Bash
+pip install pandas numpy
+Run the Week 1 cleaning script:
+
+Bash
+python week1/week1_cleaning.py
 
 ---
 
@@ -46,11 +83,3 @@ Senior-Data-Analytics-Engineer-Internship/
 │
 ├── .gitignore                       # File exclusion configuration
 └── README.md                        # Repository documentation
-
-#### 📅 Weekly Deliverables
-Week,Focus Area,Key Deliverables,Summary
-Week 1,Data Cleaning & Preprocessing,week1_cleaning.pyWEEK 1 Report.docx,"Handled missing values, standardized data types, deduplicated records, and generated a structured quality audit on the Telco Churn dataset."
-Week 2,Exploratory Data Analysis (EDA),Upcoming,"Statistical profiling, correlation analysis, and customer segment trends."
-Week 3,Data Transformation & Modeling,Upcoming,"Feature engineering, schema design, and analytical aggregation."
-Week 4,Dashboarding & Visualization,Upcoming,Interactive visual storytelling and KPI tracking.
-Week 5,Final Report & Presentation,Upcoming,"Executive summary, business insights, and final project deliverables."
