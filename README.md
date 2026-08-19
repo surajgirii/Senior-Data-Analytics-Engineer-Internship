@@ -46,3 +46,11 @@ Senior-Data-Analytics-Engineer-Internship/
 │
 ├── .gitignore                       # File exclusion configuration
 └── README.md                        # Repository documentation
+
+#### 📅 Weekly Deliverables
+Week,Focus Area,Key Deliverables,Summary
+Week 1,Data Cleaning & Preprocessing,week1_cleaning.pyWEEK 1 Report.docx,"Handled missing values, standardized data types, deduplicated records, and generated a structured quality audit on the Telco Churn dataset."
+Week 2,Exploratory Data Analysis (EDA),Upcoming,"Statistical profiling, correlation analysis, and customer segment trends."
+Week 3,Data Transformation & Modeling,Upcoming,"Feature engineering, schema design, and analytical aggregation."
+Week 4,Dashboarding & Visualization,Upcoming,Interactive visual storytelling and KPI tracking.
+Week 5,Final Report & Presentation,Upcoming,"Executive summary, business insights, and final project deliverables."
