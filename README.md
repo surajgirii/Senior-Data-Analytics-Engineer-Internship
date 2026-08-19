@@ -1,33 +1,48 @@
-# Senior Data Analytics Engineer Internship - YuvaIntern
+<div align="center">
 
-Welcome to the official repository for my 5-week **Senior Data Analytics Engineer** internship at YuvaIntern. This project serves as a comprehensive portfolio documenting data cleaning, exploratory data analysis, data modeling, visualization, and reporting tasks completed throughout the internship.
+# 📊 Senior Data Analytics Engineer Internship
+
+[![Organization](https://img.shields.io/badge/Organization-YuvaIntern-blue.svg)](https://yuvaintern.com/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-orange.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)]()
+
+---
+
+**A comprehensive repository documenting data pipeline engineering, exploratory data analysis (EDA), data modeling, visualization, and strategic reporting throughout the 5-week YuvaIntern program.**
+
+</div>
+
+---
+
+## 📌 Table of Contents
+* [Overview](#-overview)
+* [Repository Structure](#-repository-structure)
+* [Weekly Deliverables](#-weekly-deliverables)
+* [Tech Stack & Tools](#-tech-stack--tools)
+* [Getting Started](#-getting-started)
+* [Author](#-author)
+
+---
+
+## 📖 Overview
+
+This repository tracks my end-to-end tasks as a **Senior Data Analytics Engineer Intern** at **YuvaIntern**. The primary goal is to transform raw, unstructured datasets into actionable business intelligence through robust data engineering workflows, analytical modeling, and visual reporting.
 
 ---
 
 ## 📁 Repository Structure
 
-``text
-.
-├── data/       # Contains raw, intermediate, and processed datasets
-└── week1/      # Week 1 deliverables: scripts and report
-
-🚀 Weekly Breakdown
-Week 1: Data Cleaning & Preprocessing
-Script: week1_cleaning.py
-
-Report: Week1_Data_Cleaning_Report.docx
-
-Key Tasks:
-
-Handled missing values, duplicates, and inconsistent data types.
-
-Standardized data formats for analysis.
-
-Generated a detailed report outlining cleaning strategies and quality checks.
-
-🛠️ Tools & Technologies
-Programming Language: Python 3.x
-
-Libraries: Pandas, NumPy
-
-Documentation: Microsoft Word / Markdown
+```text
+Senior-Data-Analytics-Engineer-Internship/
+│
+├── data/                            # Contains project datasets
+│   ├── raw_telco_churn.csv          # Raw customer churn dataset
+│   └── cleaned_telco_churn.csv      # Cleaned & preprocessed analytical dataset
+│
+├── week1/                           # Deliverables for Week 1
+│   ├── week1_cleaning.py            # Data cleaning & validation script
+│   └── WEEK 1 Report.docx           # Detailed data quality & process report
+│
+├── .gitignore                       # File exclusion configuration
+└── README.md                        # Repository documentation
