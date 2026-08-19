@@ -17,9 +17,8 @@
 
 ## 📌 Table of Contents
 * [Overview](#-overview)
-* [Repository Structure](#-repository-structure)
 * [Tech Stack & Tools](#-tech-stack--tools)
-* [Getting Started](#-getting-started)
+* [Repository Structure](#-repository-structure)
 
 
 ---
@@ -33,38 +32,12 @@ This repository tracks my end-to-end tasks as a **Senior Data Analytics Engineer
 ## 🛠️ Tech Stack & Tools
 
 Core Language: Python 3.x
+
 Data Manipulation: Pandas, NumPy
+
 Documentation & Reporting: Markdown, Microsoft Word
+
 Version Control: Git, GitHub
-
----
-
-🚀 Getting Started
-
-Prerequisites
-Ensure Python 3.8+ is installed on your machine:
-
-Bash
-python --version
-Setup Instructions
-Clone the repository:
-
-Bash
-git clone [https://github.com/surajgirii/Senior-Data-Analytics-Engineer-Internship.git](https://github.com/surajgirii/Senior-Data-Analytics-Engineer-Internship.git)
-cd Senior-Data-Analytics-Engineer-Internship
-Set up a virtual environment:
-
-Bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install required packages:
-
-Bash
-pip install pandas numpy
-Run the Week 1 cleaning script:
-
-Bash
-python week1/week1_cleaning.py
 
 ---
 
